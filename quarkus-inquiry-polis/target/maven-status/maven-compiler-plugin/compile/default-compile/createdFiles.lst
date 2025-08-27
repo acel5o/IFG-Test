@@ -1,0 +1,7 @@
+org\ifg\config\KafkaConfig.class
+org\ifg\Main.class
+org\ifg\service\KafkaConsumerService.class
+org\ifg\service\PolicyProcessor.class
+org\ifg\config\CacheConfig.class
+org\ifg\service\KafkaConfigService.class
+org\ifg\service\KafkaProducerService.class

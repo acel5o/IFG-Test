@@ -1,0 +1,2 @@
+org\ifg\config\KafkaConfigService.class
+org\ifg\processor\PolicyProcessor.class
